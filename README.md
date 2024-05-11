@@ -1,0 +1,1 @@
+Welcome to My Awesome Blockchain Project! This project aims to create a decentralized and secure blockchain system. Whether you’re a developer, researcher, or just curious about blockchain technology, you’ve come to the right place.
